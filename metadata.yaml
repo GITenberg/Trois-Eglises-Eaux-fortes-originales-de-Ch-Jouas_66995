@@ -5,6 +5,9 @@ contributor:
     agent_name: Jouas, Charles
     gutenberg_agent_id: '54070'
     url: http://www.gutenberg.org/2009/agents/54070
+covers:
+- cover_type: archival
+  image_path: 66995-h/images/cover.jpg
 creator:
   author:
     agent_name: Huysmans, J.-K. (Joris-Karl)
@@ -22,6 +25,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans
     - https://en.wikipedia.org/wiki/Joris-Karl_Huysmans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66995#Trois-Eglises-Eaux-fortes-originales-de-Ch-Jouas
 gutenberg_issued: '2021-12-22'
 identifiers:
   gutenberg: '66995'
